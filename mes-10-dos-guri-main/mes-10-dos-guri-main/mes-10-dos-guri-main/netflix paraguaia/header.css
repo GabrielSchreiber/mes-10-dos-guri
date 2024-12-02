@@ -4,26 +4,3 @@
     background-image: url(img/Menu.png);
     display: inline-block;
     }
-
-
-    .cabecalho{
-        background-color: var(--cor-do-texto);
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-
-    .container{
-    display: flex;
-    align-items: center;
-    }
-
-    .container-imagem{
-        padding: 1 em;
-    }
-
-    <input type= "checkbox" id="menu" class="container-botao">
-    <label for="menu">
-    <span class;
-    </label>
-    <ul class="lista-menu">
